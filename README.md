@@ -1,8 +1,8 @@
-# AB Testing Library
+# AB Testing Module
 
 ## Overview
 
-The AB Testing Library is a comprehensive suite designed for analyzing and reporting A/B test experiments, featuring functions for statistical analysis, advanced modeling, and data visualization to transform experimental results into actionable insights.
+The AB Testing Module is a comprehensive suite designed for analyzing and reporting A/B test experiments, featuring functions for statistical analysis, advanced modeling, and data visualization to transform experimental results into actionable insights.
 
 
 ## Features
@@ -15,7 +15,7 @@ The `ab_test` function is designed to facilitate A/B testing and statistical ana
 
 #### Function Map
 
-<img src="https://github.com/knowusuboaky/ab_testing/blob/main/README_files/figure-markdown/mermaid-figure-1.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
+<img src="https://github.com/knowusuboaky/ab_testing_module/blob/main/README_files/figure-markdown/mermaid-figure-1.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
 
 #### Parameters
 
@@ -47,14 +47,14 @@ This is the environment we need to load.
 
 ``` bash
 
-pip install ab_testing==3.1.7
+pip install ab_testing_module==3.1.7
 ```
 
 #### Load Package
 
 ``` bash
 
-from ab_testing import ab_test
+from ab_testing_module import ab_test
 ```
 
 #### Base Operations
@@ -112,7 +112,7 @@ The `modeling` is a sophisticated function designed for conducting advanced stat
 
 #### Function Map
 
-<img src="https://github.com/knowusuboaky/ab_testing/blob/main/README_files/figure-markdown/mermaid-figure-2.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
+<img src="https://github.com/knowusuboaky/ab_testing_module/blob/main/README_files/figure-markdown/mermaid-figure-2.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
 
 #### Parameters
 
@@ -141,14 +141,14 @@ This is the environment we need to load.
 
 ``` bash
 
-pip install ab_testing==3.1.7
+pip install ab_testing_module==3.1.7
 ```
 
 #### Load Package
 
 ``` bash
 
-from ab_testing import modeling
+from ab_testing_module import modeling
 ```
 
 #### Base Operations
@@ -191,7 +191,7 @@ The `data_viz` function creates a series of data visualizations based on a provi
 
 #### Function Map
 
-<img src="https://github.com/knowusuboaky/ab_testing/blob/main/README_files/figure-markdown/mermaid-figure-3.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
+<img src="https://github.com/knowusuboaky/ab_testing_module/blob/main/README_files/figure-markdown/mermaid-figure-3.png?raw=true" width="1526" height="459" alt="Optional Alt Text">
 
 #### Parameters
 
@@ -220,14 +220,14 @@ This is the environment we need to load.
 
 ``` bash
 
-pip install ab_testing==3.1.7
+pip install ab_testing_module==3.1.7
 ```
 
 #### Load Package
 
 ``` bash
 
-from ab_testing import data_viz
+from ab_testing_module import data_viz
 ```
 
 #### Base Operations
@@ -290,7 +290,7 @@ open issues.
 ## Documentation & Examples
 
 For documentation and usage examples, visit the GitHub repository:
-https://github.com/knowusuboaky/ab_testing
+https://github.com/knowusuboaky/ab_testing_module
 
 **Author**: Kwadwo Daddy Nyame Owusu - Boakye\
 **Email**: kwadwo.owusuboakye@outlook.com\
